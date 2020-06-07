@@ -1,0 +1,11 @@
+require template hpair
+require binary
+
+set sourcepath: src
+set headerpath: include
+set binpath: bin
+set executable: mani
+set name: fracciones
+
+module all compile
+module clean phony: rm -rf *.o
