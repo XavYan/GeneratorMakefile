@@ -4,7 +4,7 @@ require binary
 set sourcepath: src
 set headerpath: include
 set binpath: bin
-set executable: mani
+set executable: main
 set name: fracciones
 
 module all compile
